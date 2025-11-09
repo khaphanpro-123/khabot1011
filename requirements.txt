@@ -1,12 +1,7 @@
-google-generativeai==0.3.1
-streamlit==1.29.0
-joblib==1.3.2
+streamlit
+google-generativeai
+joblib
 pillow
 PyPDF2
 python-docx
-streamlit
-fastapi
-uvicorn
-google-generativeai
-joblib
 python-dotenv
