@@ -4,3 +4,9 @@ joblib==1.3.2
 pillow
 PyPDF2
 python-docx
+streamlit
+fastapi
+uvicorn
+google-generativeai
+joblib
+python-dotenv
